@@ -13,8 +13,8 @@ First, we combined the datasets: merging SVI and affordable housing data using s
 1. Housing cost burden alongside affordable housing locations.
 2. Affordable housing units in relation to minority population percentages.
 
-- [LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx]([LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx](https://github.com/Homie73/URSP605_Lab4-Group3/blob/main/Deliverable/LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx))
-- [LabHack4_Homayoon_Zoning_and_Affordable_Housing_Distribution.twbx](LabHack4_Homayoon_Zoning_and_Affordable_Housing_Distribution.twbx)
+- [Social Vulnerability and Housing Cost Burden Map](https://github.com/Homie73/URSP605_Lab4-Group3/blob/main/Deliverable/LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx)
+- [Zonning and Affordable Housing Distribution Map](https://github.com/Homie73/URSP605_Lab4-Group3/blob/main/Deliverable/LabHack4_Homayoon_Zoning_and_Affordable_Housing_Distribution.twbx)
 
 ---
 
@@ -24,7 +24,7 @@ Then, we created two charts that compare:
 1. The number of affordable housing units across different zoning types.
 2. The relationship between housing cost burden percentages and crowded housing percentages at the census tract level, exploring whether tracts with higher housing costs also experience higher overcrowding rates, which may signal housing shortages or affordability issues.
 
-- [JOHN A. Total Affor and Zoning .twbx](JOHN%20A.%20Total%20Affor%20and%20Zoning%20.twbx)
+- [Affordable Housing Units by Zoning Type Charts](https://github.com/Homie73/URSP605_Lab4-Group3/blob/main/Deliverable/JOHN%20A.%20Total%20Affor%20and%20Zoning%20.twbx)
 
 ---
 
@@ -32,4 +32,4 @@ Then, we created two charts that compare:
 
 We included relevant filters across all visualizations that allow a viewer to narrow in on population sizes, zoning types, and public vs. private status of projects. Additionally, we included interactive features such as drill down to specific Wards, and highlights to show tracts in one map when they are hovered over in the other map.
 
-- [Group3_Dashboard_Final.twbx](Group3_Dashboard_Final.twbx)
+- [Final Dashboard](https://github.com/Homie73/URSP605_Lab4-Group3/blob/main/Deliverable/Group3_Dashboard_Final.twbx)
