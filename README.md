@@ -13,7 +13,7 @@ First, we combined the datasets: merging SVI and affordable housing data using s
 1. Housing cost burden alongside affordable housing locations.
 2. Affordable housing units in relation to minority population percentages.
 
-- [LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx](LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx)
+- [LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx]([LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx](https://github.com/Homie73/URSP605_Lab4-Group3/blob/main/Deliverable/LabHack4_Shahrzad_Social_Vulnerability_and_Housing_Cost_Burden.twbx))
 - [LabHack4_Homayoon_Zoning_and_Affordable_Housing_Distribution.twbx](LabHack4_Homayoon_Zoning_and_Affordable_Housing_Distribution.twbx)
 
 ---
